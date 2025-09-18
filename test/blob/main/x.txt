@@ -1,8 +1,0 @@
-s6.ny.purpleproxies.com:5075
-s8.lu.purpleproxies.com:9761
-s8.lu.purpleproxies.com:4445
-s2.ny.purpleproxies.com:1647
-s5.lu.purpleproxies.com:6773
-s6.ny.purpleproxies.com:7164
-s3.mi.purpleproxies.com:9133
-s5.mi.purpleproxies.com:4137
